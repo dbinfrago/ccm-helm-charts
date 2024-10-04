@@ -5,6 +5,30 @@ apiVersion: v1
 entries:
   collab-manager:
   - apiVersion: v2
+    appVersion: v4.6.0
+    created: "2024-10-04T12:52:24.369703097Z"
+    dependencies:
+    - alias: loki
+      condition: loki.enabled
+      name: loki
+      repository: https://grafana.github.io/helm-charts/
+      version: 5.30.0
+    - condition: kube-state-metrics.enabled
+      name: kube-state-metrics
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 5.21.0
+    description: Capella Collaboration Manager
+    digest: b8e00d53ad96e44fe97d2a3b8eaeb2f62b9a6d74dfb2e032a37b1b9469763c4e
+    home: https://github.com/DSD-DBS/capella-collab-manager
+    maintainers:
+    - email: set@deutschebahn.com
+      name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
+    name: collab-manager
+    type: application
+    urls:
+    - charts/collab-manager-v4.6.0.tgz
+    version: v4.6.0
+  - apiVersion: v2
     appVersion: v4.5.4
     created: "2024-10-01T12:06:26.018076073Z"
     dependencies:
@@ -268,4 +292,4 @@ entries:
     urls:
     - charts/collab-manager-v4.1.0.tgz
     version: v4.1.0
-generated: "2024-10-01T12:06:26.00690982Z"
+generated: "2024-10-04T12:52:24.357446798Z"

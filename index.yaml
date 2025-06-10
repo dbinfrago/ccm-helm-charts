@@ -5,6 +5,30 @@ apiVersion: v1
 entries:
   collab-manager:
   - apiVersion: v2
+    appVersion: v4.25.1
+    created: "2025-06-10T12:23:12.789399939Z"
+    dependencies:
+    - alias: loki
+      condition: loki.enabled
+      name: loki
+      repository: https://grafana.github.io/helm-charts/
+      version: 6.27.0
+    - condition: kube-state-metrics.enabled
+      name: kube-state-metrics
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 5.21.0
+    description: Capella Collaboration Manager
+    digest: 201bd3542bda6faa5b83605b3413cb80835a21c0edd2abe7efa8b4ff083c7017
+    home: https://github.com/DSD-DBS/capella-collab-manager
+    maintainers:
+    - email: set@deutschebahn.com
+      name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
+    name: collab-manager
+    type: application
+    urls:
+    - charts/collab-manager-v4.25.1.tgz
+    version: v4.25.1
+  - apiVersion: v2
     appVersion: v4.25.0
     created: "2025-06-02T12:34:40.345494061Z"
     dependencies:
@@ -1012,4 +1036,28 @@ entries:
     urls:
     - charts/collab-manager-v4.1.0.tgz
     version: v4.1.0
-generated: "2025-06-02T12:34:40.330104165Z"
+  - apiVersion: v2
+    appVersion: v2.26.1
+    created: "2025-06-10T12:22:33.527895204Z"
+    dependencies:
+    - alias: loki
+      condition: loki.enabled
+      name: loki
+      repository: https://grafana.github.io/helm-charts/
+      version: 6.27.0
+    - condition: kube-state-metrics.enabled
+      name: kube-state-metrics
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 5.21.0
+    description: Capella Collaboration Manager
+    digest: e89d331899bc55f5c3daaabf40ee8b72237d79df9c70b9ac50f18ef24dcf8de1
+    home: https://github.com/DSD-DBS/capella-collab-manager
+    maintainers:
+    - email: set@deutschebahn.com
+      name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
+    name: collab-manager
+    type: application
+    urls:
+    - charts/collab-manager-v2.26.1.tgz
+    version: v2.26.1
+generated: "2025-06-10T12:23:12.77464002Z"

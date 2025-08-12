@@ -19,7 +19,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 32dce0f184b8c254406297e6bba9eccc44a91858bb256a916942447a4be153ca
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -43,7 +43,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: eb2c97820ab4e2a6b8c884aad24f9a278f7c451437981e4a6d774b9f5896a765
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -67,7 +67,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: eadf7f0265e1253ebc5ad60c0eabefb60b8afa038d1c086c8b38ded5144f17d1
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -91,7 +91,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 201bd3542bda6faa5b83605b3413cb80835a21c0edd2abe7efa8b4ff083c7017
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -115,7 +115,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: b9f086a1dcf4ad7148acb7bcac1b32563ae00d69d36cac19b9ab77cc67afda1f
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -139,7 +139,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 61573ad81e93d9ce7c301abed1cb8732bc7d388c48b58fffa210a066f72bf5f1
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -163,7 +163,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: fec7233f6c91c1e376e2b0a7c55c15caa9bb2c7895758fd40651966c1c5914c9
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -187,7 +187,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 11d33b05c72a485564603366654663592d08921851a2491bc02af50b22ca4b38
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -211,7 +211,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: a0e9c8b89088d86a114f78c86ec569f7694dda7f751eb5f60a28901337afb7d1
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -235,7 +235,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 5f27421315fed72d7873a733ea0a5eb9c181e7b641a5aef89cb108f51805a03e
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -259,7 +259,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: d3a25f5dfd91ef4f09a7f1b9097091ffe4384578a8f6de5cc595dbf13b5b4616
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -283,7 +283,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: ece025b33866f333c9fd7ecd6cf86388fbfd6a6086bb9fc963047fb0ef4c7361
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -307,7 +307,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 966cbaf2e330c09628d0e452da5c5d2868434b3237041f58f7bea2d56f2d8727
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -331,7 +331,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 203fb55873b9f52964d27a5f6f5448628a3fd2bf1985c8a63f44090353746d21
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -355,7 +355,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 94fc4329b2dfbdaf26151f11f1674b6cfbdbfba2e51dc14035694717a252f186
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -379,7 +379,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: f8fb4fcf87f3c4031890c08f599c2a359c52f4990223c3ad34a3e18879189255
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -403,7 +403,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: f6722463d59c39753831b0288aef2d4c7e59c2e042e6c0fe99c6909d9c10d0dc
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -427,7 +427,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 1d080f5da7585bc027e322aa8af46d87f4d9c2dee23a36a3f8dc0af47a95ce53
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -451,7 +451,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 464a1c2919b5f3abaa121e9fa821db75f22acdf54d2244504da487f1cc826736
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -475,7 +475,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: d50edbdf3f15d3522f7657c3be36e9c92c157c6a6c0ac5eeb0cf29b04816eb35
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -499,7 +499,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 65cdd6364ee5a0999e13f22defcc2f29ce65e91f0fc011d1d5ad466473d7c01f
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -523,7 +523,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 86157c666e88288d9887c896058577fcc4c52ed845776af171ac4796cc1df28b
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -547,7 +547,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 1ff9ced91284106c5fb96d1dffd3804fa70f62a04a42de394b646c5c34a80f92
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -571,7 +571,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 02d482c74d30bed2e3f6d2ac9eea3bef6c39fbe48a34b96d989b012164696517
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -595,7 +595,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: a30f5cc6057ae9f5f54cd36acec62168498930bf7fe077f6b6100d0afdf86a12
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -619,7 +619,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: a3afc60b1b31c32e4823c9fcdc300ecc0124f47be5d0252e40f5d38db9cc4991
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -643,7 +643,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: e767b7ca5766a522291892d502277d9373f5e4eec8020deaecab28836308cdf2
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -667,7 +667,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 288671532ada1a249e4e70d7630fc825627bcfeb2c7bc8bedc1e3be5afadd789
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -691,7 +691,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: f174ddd851bb043f0d9727a3d4b8db1cbf72b8e656ee964246f4d7c29cba9adb
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -715,7 +715,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 7f73814edab09d210696df9671c5888b3eaad4f81980225201b3be7fea278a23
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -739,7 +739,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: bbf0ce4d8c224e87f04a47c01979e5d76cd1548e83551ec3528a0e24fc49fb62
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -763,7 +763,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 80953a49733f05baf6ee1332dfb7a1892cc183c671acdf6afe4f0ea55760e78d
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -787,7 +787,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: acc0a9d30e57abe74a52c2f47d6582d8b3b71d102e89103afb7c50373fc99f8c
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -811,7 +811,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: ba8e16228a370d0fdfbd62d2dabad553a8aead834c220a125cfe39b28eeb8b63
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -835,7 +835,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: b8e00d53ad96e44fe97d2a3b8eaeb2f62b9a6d74dfb2e032a37b1b9469763c4e
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -859,7 +859,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 38452f6b71bb466904eedda67aa6c4fd19f294f86b82d0d57ad2bae2a9ec1424
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -883,7 +883,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: a95d4a5c5dcc8c911e2642db8a4ffbdd10c1427cf489e274610b58a8aa289725
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -907,7 +907,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 161b1caa58220c53177e107da5dede61b27714cf4f28f5e7b0d7ff22e65cde86
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -931,7 +931,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 8540a3423cf1a2ba15e3f4beff986f3f22fad8f51bedcc059b36012b5774df1e
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -955,7 +955,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: b71df20aa5e7f6537f86a2911df39698d6c53f60f153e825244d14af5d68e12d
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -979,7 +979,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: d07e4a833200c6a32957420e2c66421e9a98a5afa40442b440f02e914b1632c8
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -1003,7 +1003,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 0fd6a196633b61386be48c69dcdb28ab6e5febc3726130b5a07f6cb5b049fd0d
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -1027,7 +1027,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: a3108ca2489f5743e259b03518acc91b9f2aa8ae29e7fc11599f8fe89b8a7557
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -1051,7 +1051,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: a0ebe159fb27b61cf792a62180e01fa6164460c78a2fe5e3a30fb098de099f5b
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -1075,7 +1075,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 4186d9acd8b115e04ed3e912674c87c9cce4b309eba7febdbc475ff9ff3c30ab
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -1099,7 +1099,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: 33e003da8733b4591bb116eacd047155a9d51546bf1a77d7cf9a58063a03d56a
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland
@@ -1123,7 +1123,7 @@ entries:
       version: 5.21.0
     description: Capella Collaboration Manager
     digest: e89d331899bc55f5c3daaabf40ee8b72237d79df9c70b9ac50f18ef24dcf8de1
-    home: https://github.com/DSD-DBS/capella-collab-manager
+    home: https://github.com/dbinfrago/capella-collab-manager
     maintainers:
     - email: set@deutschebahn.com
       name: Systems Engineering Toolchain team of Digitale Schiene Deutschland

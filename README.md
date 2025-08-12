@@ -7,4 +7,4 @@
 
 This repository hosts the Helm registry for the Capella Collaboration Manager.
 For more information how to use the registry, please refer to
-[Capella Collaboration Manager repository](https://github.com/DSD-DBS/capella-collab-manager).
+[Capella Collaboration Manager repository](https://github.com/dbinfrago/capella-collab-manager).
